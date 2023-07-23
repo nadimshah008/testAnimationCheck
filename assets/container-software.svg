@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96.212" height="96" viewBox="0 0 96.212 96">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-2.031" y1="-7.774" x2="10.668" y2="5.718" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00be9b"/>
+      <stop offset="1" stop-color="#009dd9"/>
+    </linearGradient>
+  </defs>
+  <g id="container-software" transform="translate(-6 -6)">
+    <path id="Path_81" data-name="Path 81" d="M62.071,38.071H30V6H62.071ZM38.018,30.053H54.053V14.018H38.018Z" transform="translate(40.141 0)" fill="url(#linear-gradient)"/>
+    <path id="Path_82" data-name="Path 82" d="M45.571,37.462V13.5H13.5V69.412H69.624V37.462ZM21.518,21.487H37.553V37.462H21.518ZM37.553,61.424H21.518V45.45H37.553Zm24.053,0H45.571V45.45H61.606Z" transform="translate(12.544 12.544)" fill="url(#linear-gradient)"/>
+    <path id="Path_83" data-name="Path 83" d="M94.194,102H14.018A8.017,8.017,0,0,1,6,94V14a8.017,8.017,0,0,1,8.018-8H54.106v8H14.018V94H94.194V54h8.018V94A8.017,8.017,0,0,1,94.194,102Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
